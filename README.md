@@ -108,9 +108,9 @@ $ cd test_webdev
 3. Start apache
 4. Start MySQL
 5. Create database db_test and import db_test.sql
-6. Composer install
+6. composer install
 7. Setting your .env file
-8. Php spark serve
+8. php spark serve
 9. Open URL : localhost:8080
 
 
